@@ -1,0 +1,448 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//schema-app//TimeEdit-arkiv//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Artificiell intelligens för industriell analys
+X-WR-TIMEZONE:Europe/Stockholm
+X-PUBLISHED-TTL:PT2H
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+BEGIN:VEVENT
+DTSTART:20261112T091500Z
+DTEND:20261112T110000Z
+UID:26642ed3ac860b6affb5f634.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zoom=18&sharepoitype=p
+ oi&sharepoi=390487
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Föreläsning
+LOCATION:Plats: 2001\, Ångström
+DESCRIPTION:F5 \nKarta: https://use.mazemap.com/#v=1&config=uu&campusid=49
+ &search=%C3%85ngstr%C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zo
+ om=18&sharepoitype=poi&sharepoi=390487\nID 4143427
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:26642ed3ac860b6affb5f634@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T141500Z
+DTEND:20261112T160000Z
+UID:a26e22b08877288e74a097c5.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Seminarium\, Obligatorisk
+LOCATION:Plats: Via Zoom
+DESCRIPTION:S1\nID 4143434
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:a26e22b08877288e74a097c5@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T071500Z
+DTEND:20261113T090000Z
+UID:9cdd1d74b2d78abb38517e0d.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Lekt
+ ion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L2 - Group A\nID 4143438
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:9cdd1d74b2d78abb38517e0d@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T091500Z
+DTEND:20261113T110000Z
+UID:a8d4352fce6bdfa845ffe247.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Lekt
+ ion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L2 - Group B\nID 4143439
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:a8d4352fce6bdfa845ffe247@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T121500Z
+DTEND:20261113T140000Z
+UID:05fbec4fd418f5918c1574cd.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:MasILI1\, Artificiell intelligens för industriell analys.  \, Lek
+ tion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L2 - Grupp C\nID 4143440
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:05fbec4fd418f5918c1574cd@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T071500Z
+DTEND:20261116T090000Z
+UID:53a1841187c8e5458b9b3d8b.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zoom=18&sharepoitype=p
+ oi&sharepoi=390487
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Föreläsning
+LOCATION:Plats: 2001\, Ångström
+DESCRIPTION:F6 \nKarta: https://use.mazemap.com/#v=1&config=uu&campusid=49
+ &search=%C3%85ngstr%C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zo
+ om=18&sharepoitype=poi&sharepoi=390487\nID 4143442
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:53a1841187c8e5458b9b3d8b@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T121500Z
+DTEND:20261116T140000Z
+UID:10c7b128c59f531737c781c1.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Lekt
+ ion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L3 - Group A\nID 4143447
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:10c7b128c59f531737c781c1@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T071500Z
+DTEND:20261117T090000Z
+UID:cba21b415054fd32a80dc3bc.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Lekt
+ ion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L3 - Group B\nID 4143444
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:cba21b415054fd32a80dc3bc@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T091500Z
+DTEND:20261119T110000Z
+UID:cb8b9a94d67047b6d2441eb4.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:MasILI1\, Artificiell intelligens för industriell analys.  \, Lek
+ tion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L3 - Group C\nID 4143448
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:cb8b9a94d67047b6d2441eb4@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T141500Z
+DTEND:20261120T160000Z
+UID:70141c4ce36744bb5eee1994.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://link.mazemap.com/LYGoYSyr
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Föreläsning
+LOCATION:Plats: 80127\, Ångström
+DESCRIPTION:F7 \nKarta: https://link.mazemap.com/LYGoYSyr\nID 4143449
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:70141c4ce36744bb5eee1994@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T071500Z
+DTEND:20261123T090000Z
+UID:d3ab1d8d4492e0d2ebceb465.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zoom=18&sharepoitype=p
+ oi&sharepoi=390487
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Föreläsning
+LOCATION:Plats: 2001\, Ångström
+DESCRIPTION:F8 \nKarta: https://use.mazemap.com/#v=1&config=uu&campusid=49
+ &search=%C3%85ngstr%C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zo
+ om=18&sharepoitype=poi&sharepoi=390487\nID 4143451
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:d3ab1d8d4492e0d2ebceb465@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T141500Z
+DTEND:20261123T160000Z
+UID:6826575da7cb4c9702b1f830.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Semi
+ narium\, Obligatorisk
+LOCATION:Plats: Via Zoom
+DESCRIPTION:S2 - Group A\nID 4143454
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:6826575da7cb4c9702b1f830@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T071500Z
+DTEND:20261125T090000Z
+UID:031fa639e15cf01fae2df7b4.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Semi
+ narium\, Obligatorisk
+LOCATION:Plats: Via Zoom
+DESCRIPTION:S2  - Group B\nID 4143455
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:031fa639e15cf01fae2df7b4@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T121500Z
+DTEND:20261125T140000Z
+UID:3d3b66152b1250f4158449be.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:MasILI1\, Artificiell intelligens för industriell analys.  \, Sem
+ inarium\, Obligatorisk
+LOCATION:Plats: Via Zoom
+DESCRIPTION:S2 - Group C\nID 4143456
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:3d3b66152b1250f4158449be@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T121500Z
+DTEND:20261126T140000Z
+UID:dcf82fe3d595cd1efb89523e.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Lekt
+ ion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L4 - Group A\nID 4143459
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:dcf82fe3d595cd1efb89523e@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T121500Z
+DTEND:20261127T140000Z
+UID:7dd9e9158ed3ebd14f00a5d0.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:MasILI1\, Artificiell intelligens för industriell analys.  \, Lek
+ tion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L4 - Group C\nID 4143462
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:7dd9e9158ed3ebd14f00a5d0@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T091500Z
+DTEND:20261130T110000Z
+UID:52938a65ce75fd5c3b3c0e89.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Lekt
+ ion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L4 - Group B\nID 4143461
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:52938a65ce75fd5c3b3c0e89@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T121500Z
+DTEND:20261130T140000Z
+UID:5f1a5c52550e43b83456aa9c.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Semi
+ narium\, Obligatorisk
+LOCATION:Plats: Via Zoom
+DESCRIPTION:S3 - Group A\nID 4143463
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:5f1a5c52550e43b83456aa9c@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T121500Z
+DTEND:20261201T140000Z
+UID:ca53c4c75a560fcf51b37061.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:MasILI1\, Artificiell intelligens för industriell analys.  \, Sem
+ inarium\, Obligatorisk
+LOCATION:Plats: Via Zoom
+DESCRIPTION:S3 - Group C\nID 4143467
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:ca53c4c75a560fcf51b37061@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T091500Z
+DTEND:20261202T110000Z
+UID:b15cbb26e356cd2869eb02c0.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Semi
+ narium\, Obligatorisk
+LOCATION:Plats: Via Zoom
+DESCRIPTION:S3 - Group B\nID 4143464
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:b15cbb26e356cd2869eb02c0@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T141500Z
+DTEND:20261203T160000Z
+UID:de54f37158fdc87bd96c52a7.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://link.mazemap.com/LYGoYSyr
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Föreläsning
+LOCATION:Plats: 80127\, Ångström
+DESCRIPTION:F9 \nKarta: https://link.mazemap.com/LYGoYSyr\nID 4143468
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:de54f37158fdc87bd96c52a7@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T091500Z
+DTEND:20261204T110000Z
+UID:2e593172e320a9e53eba83d4.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Lekt
+ ion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L5 - Group A\nID 4143470
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:2e593172e320a9e53eba83d4@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T121500Z
+DTEND:20261204T140000Z
+UID:5e604b1bfd656db18c647928.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:MasILI1\, Artificiell intelligens för industriell analys.  \, Lek
+ tion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L5 - Group C\nID 4143472
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:5e604b1bfd656db18c647928@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T141500Z
+DTEND:20261204T160000Z
+UID:efc18cc8cd6ecadbeefff1c0.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Lekt
+ ion
+LOCATION:Plats: Via Zoom
+DESCRIPTION:L5 - Group B\nID 4143471
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:efc18cc8cd6ecadbeefff1c0@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T141500Z
+DTEND:20261210T160000Z
+UID:a15a02e1dde06c7d64557ba9.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://link.mazemap.com/zNWgHN9c
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Föreläsning
+LOCATION:Plats: 80121\, Ångström
+DESCRIPTION:F10 \nKarta: https://link.mazemap.com/zNWgHN9c\nID 4143473
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:a15a02e1dde06c7d64557ba9@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T091500Z
+DTEND:20261221T110000Z
+UID:1489406cc7fc1475b3360a60.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Semi
+ narium\, Obligatorisk
+LOCATION:
+DESCRIPTION:S4 - Group A\nID 4143475
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:1489406cc7fc1475b3360a60@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T121500Z
+DTEND:20261221T140000Z
+UID:82913504ce0bdf4b4883965e.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, Artificiell intelligens för industriell analys.  \, Semi
+ narium\, Obligatorisk
+LOCATION:
+DESCRIPTION:S4 - Group B\nID 4143477
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:82913504ce0bdf4b4883965e@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T141500Z
+DTEND:20261221T160000Z
+UID:f2afd2d34da000584d192714.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Seminarium\, Obligatorisk
+LOCATION:
+DESCRIPTION:S4 - Group C\nID 4143480
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:f2afd2d34da000584d192714@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T091500Z
+DTEND:20270108T110000Z
+UID:13382a45148a262698be9a11.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Föreläsning
+LOCATION:Plats: Via Zoom
+DESCRIPTION:F11\nID 4143481
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:13382a45148a262698be9a11@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T070000Z
+DTEND:20270115T160000Z
+UID:86fbe7064801a89ad87050cd.adf6a5@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
+ .  \, Tentamen
+LOCATION:Plats: För tid och plats se Ladok
+DESCRIPTION:ID 3959390
+X-FEED:INDEK År 4 Schema
+X-COURSE:Artificiell intelligens för industriell analys
+X-BASE-UID:86fbe7064801a89ad87050cd@timeedit-arkiv
+END:VEVENT
+END:VCALENDAR

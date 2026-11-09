@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//schema-app//TimeEdit-arkiv//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ledarskap i en global värld
+X-WR-TIMEZONE:Europe/Stockholm
+X-PUBLISHED-TTL:PT2H
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+BEGIN:VEVENT
+DTSTART:20261109T091500Z
+DTEND:20261109T110000Z
+UID:a58f960c7dc9fa99895748fc.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zoom=18&sharepoitype=p
+ oi&sharepoi=390487
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Föreläsning
+LOCATION:Plats: 2001\, Ångström
+DESCRIPTION:F2 \nKarta: https://use.mazemap.com/#v=1&config=uu&campusid=49
+ &search=%C3%85ngstr%C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zo
+ om=18&sharepoitype=poi&sharepoi=390487\nID 4140394
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:a58f960c7dc9fa99895748fc@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T121500Z
+DTEND:20261112T140000Z
+UID:0bb48f486187ce6d5e895e33.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zoom=18&sharepoitype=p
+ oi&sharepoi=390487
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Föreläsning
+LOCATION:Plats: 2001\, Ångström
+DESCRIPTION:F3 \nThomas Taro Lennerfors \nKarta: https://use.mazemap.com/#
+ v=1&config=uu&campusid=49&search=%C3%85ngstr%C3%B6m%202002&zlevel=1&cente
+ r=17.647455\,59.839254&zoom=18&sharepoitype=poi&sharepoi=390487\nID 41403
+ 95
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:0bb48f486187ce6d5e895e33@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T091500Z
+DTEND:20261117T110000Z
+UID:57ce17efe951c2767fc69050.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647534\,59.839256&zoom=19.9&sharepoitype
+ =poi&sharepoi=390532
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Föreläsning
+LOCATION:Plats: 2005\, Ångström
+DESCRIPTION:F4 \nNina Kivinen \nKarta: https://use.mazemap.com/#v=1&config
+ =uu&campusid=49&search=%C3%85ngstr%C3%B6m%202002&zlevel=1&center=17.64753
+ 4\,59.839256&zoom=19.9&sharepoitype=poi&sharepoi=390532\nID 4140455
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:57ce17efe951c2767fc69050@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T081500Z
+DTEND:20261118T110000Z
+UID:807244393d4920b845b2610d.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:http://use.mazemap.com/?v=1&campusid=49&campuses=uu&sharepoitype=ident
+ ifier&sharepoi=Blåsenhus-12:013
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Workshop
+LOCATION:Plats: 12:013\, Blåsenhus
+DESCRIPTION:W1 - Group 1 \nKarta: http://use.mazemap.com/?v=1&campusid=49&
+ campuses=uu&sharepoitype=identifier&sharepoi=Blåsenhus-12:013\nID 414051
+ 8
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:807244393d4920b845b2610d@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T121500Z
+DTEND:20261119T150000Z
+UID:bcb5d05231f372c6adbb3388.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:http://use.mazemap.com/?v=1&campusid=49&campuses=uu&sharepoitype=ident
+ ifier&sharepoi=Blåsenhus-12:013
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Workshop
+LOCATION:Plats: 12:013\, Blåsenhus
+DESCRIPTION:W1 - Group 2 \nKarta: http://use.mazemap.com/?v=1&campusid=49&
+ campuses=uu&sharepoitype=identifier&sharepoi=Blåsenhus-12:013\nID 414045
+ 9
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:bcb5d05231f372c6adbb3388@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T081500Z
+DTEND:20261126T110000Z
+UID:a1980afcb482eee3504c2dda.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:http://use.mazemap.com/?v=1&campusid=49&campuses=uu&sharepoitype=ident
+ ifier&sharepoi=Blåsenhus-12:013
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Workshop
+LOCATION:Plats: 12:013\, Blåsenhus
+DESCRIPTION:W2 - Group 3 \nKarta: http://use.mazemap.com/?v=1&campusid=49&
+ campuses=uu&sharepoitype=identifier&sharepoi=Blåsenhus-12:013\nID 414052
+ 4
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:a1980afcb482eee3504c2dda@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T081500Z
+DTEND:20261127T110000Z
+UID:2379ca56329b63abb285f723.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:http://use.mazemap.com/?v=1&campusid=49&campuses=uu&sharepoitype=ident
+ ifier&sharepoi=Blåsenhus-12:013
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Workshop
+LOCATION:Plats: 12:013\, Blåsenhus
+DESCRIPTION:W2 - Group 4 \nKarta: http://use.mazemap.com/?v=1&campusid=49&
+ campuses=uu&sharepoitype=identifier&sharepoi=Blåsenhus-12:013\nID 414052
+ 5
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:2379ca56329b63abb285f723@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T121500Z
+DTEND:20261203T140000Z
+UID:2c7d3f3758bbb441349d82cd.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zoom=18&sharepoitype=p
+ oi&sharepoi=390487
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Föreläsning
+LOCATION:Plats: 2001\, Ångström
+DESCRIPTION:F6 \nKarta: https://use.mazemap.com/#v=1&config=uu&campusid=49
+ &search=%C3%85ngstr%C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zo
+ om=18&sharepoitype=poi&sharepoi=390487\nID 4140552
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:2c7d3f3758bbb441349d82cd@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T091500Z
+DTEND:20261207T110000Z
+UID:fd9168d2d8b0ce91761373c7.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zoom=18&sharepoitype=p
+ oi&sharepoi=390487
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Föreläsning
+LOCATION:Plats: 2001\, Ångström
+DESCRIPTION:F7 \nYadnesh Kute Stora Enso \nKarta: https://use.mazemap.com/
+ #v=1&config=uu&campusid=49&search=%C3%85ngstr%C3%B6m%202002&zlevel=1&cent
+ er=17.647455\,59.839254&zoom=18&sharepoitype=poi&sharepoi=390487\nID 4140
+ 554
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:fd9168d2d8b0ce91761373c7@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T091500Z
+DTEND:20261209T110000Z
+UID:1e1217a357b838f158b0bbc2.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+URL:https://use.mazemap.com/#v=1&config=uu&campusid=49&search=%C3%85ngstr%
+ C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zoom=18&sharepoitype=p
+ oi&sharepoi=390487
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Föreläsning
+LOCATION:Plats: 2001\, Ångström
+DESCRIPTION:F8 \nKarta: https://use.mazemap.com/#v=1&config=uu&campusid=49
+ &search=%C3%85ngstr%C3%B6m%202002&zlevel=1&center=17.647455\,59.839254&zo
+ om=18&sharepoitype=poi&sharepoi=390487\nID 4140559
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:1e1217a357b838f158b0bbc2@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T091500Z
+DTEND:20261215T110000Z
+UID:211ba46675d2415aa1bdd769.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Föreläsning
+LOCATION:Plats: Via Zoom
+DESCRIPTION:F9\nID 4140560
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:211ba46675d2415aa1bdd769@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T070000Z
+DTEND:20270107T160000Z
+UID:bdb64c6e5ea4fb6f082bfda7.e711b4@timeedit-arkiv
+DTSTAMP:20261109T095125Z
+LAST-MODIFIED:20261109T095125Z
+SUMMARY:I4\, MasILI1-2\, Ledarskap i en global värld.  \, Tentamen
+LOCATION:Plats: För tid och plats se Ladok
+DESCRIPTION:ID 4007149
+X-FEED:INDEK År 4 Schema
+X-COURSE:Ledarskap i en global värld
+X-BASE-UID:bdb64c6e5ea4fb6f082bfda7@timeedit-arkiv
+END:VEVENT
+END:VCALENDAR

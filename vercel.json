@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/cal/:file", "destination": "/api/cal?file=:file" }
+  ]
+}
