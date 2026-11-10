@@ -9,8 +9,8 @@
 
 const REPO = process.env.GITHUB_REPO || "peterzachrisson/indek-schema";
 const BRANCH = process.env.GITHUB_BRANCH || "main";
-const REDIS_URL = process.env.UPSTASH_REDIS_REST_URL || "";
-const REDIS_TOKEN = process.env.UPSTASH_REDIS_REST_TOKEN || "";
+const REDIS_URL = (process.env.UPSTASH_REDIS_REST_URL || "").replace(/^["']|["']$/g, "").trim();
+const REDIS_TOKEN = (process.env.UPSTASH_REDIS_REST_TOKEN || "").replace(/^["']|["']$/g, "").trim();
 const KEY = process.env.HIDDEN_KEY || "schema:hidden";
 const EMPTY = { courses: [], events: [] };
 
