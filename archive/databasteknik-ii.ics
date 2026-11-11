@@ -8,23 +8,6 @@ X-WR-TIMEZONE:Europe/Stockholm
 X-PUBLISHED-TTL:PT2H
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 BEGIN:VEVENT
-DTSTART:20261111T141500Z
-DTEND:20261111T160000Z
-UID:710ea5f7d566e97415ec2594.2dcdfb@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://use.mazemap.com/?campusid=49&sharepoitype=identifier&sharepoi=
- %C3%85ngstr%C3%B6m-101195
-SUMMARY:I4.IAD\, IT4\, MasComScie\, MasDataAn1\, MasIndAnalys2\, STS4.IT\,
-  X4.3\, Databasteknik II.  \, Föreläsning
-LOCATION:Plats: 101195\, Heinz-Otto Kreiss\, Ångström
-DESCRIPTION:Karta: https://use.mazemap.com/?campusid=49&sharepoitype=ident
- ifier&sharepoi=%C3%85ngstr%C3%B6m-101195\nID 4127986
-X-FEED:INDEK År 4 Schema
-X-COURSE:Databasteknik II
-X-BASE-UID:710ea5f7d566e97415ec2594@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261116T141500Z
 DTEND:20261116T160000Z
 UID:91c8b0cb77c528b33fb07179.2dcdfb@timeedit-arkiv
