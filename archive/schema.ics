@@ -157,37 +157,6 @@ X-COURSE:Artificiell intelligens för industriell analys
 X-BASE-UID:a8d4352fce6bdfa845ffe247@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261113T121500Z
-DTEND:20261113T140000Z
-UID:05fbec4fd418f5918c1574cd.fe7042@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-SUMMARY:MasILI1\, Artificiell intelligens för industriell analys.  \, Lek
- tion
-LOCATION:Plats: Via Zoom
-DESCRIPTION:L2 - Grupp C\nID 4143440
-X-FEED:INDEK År 4 Schema
-X-COURSE:Artificiell intelligens för industriell analys
-X-BASE-UID:05fbec4fd418f5918c1574cd@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T121500Z
-DTEND:20261113T140000Z
-UID:b32b6f4e644707f7578c68de.fe7042@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://link.mazemap.com/zgHciLzE
-SUMMARY:IT4\, MasComScie\, MasDataAn1\, MasMat.FM1\, MasMat.TMS1\, MasVatt
- Tek2\, Statistisk maskininlärning.  \, Lektion
-LOCATION:Plats: 100155\, Theatrum Visuale\, Ångström \nPlats: 11134\, Å
- ngström
-DESCRIPTION:L2 \nKarta: https://link.mazemap.com/zgHciLzE \nKarta: https:/
- /link.mazemap.com/BHtwChEt\nID 4130261
-X-FEED:INDEK År 4 Schema
-X-COURSE:Statistisk maskininlärning
-X-BASE-UID:b32b6f4e644707f7578c68de@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261116T071500Z
 DTEND:20261116T090000Z
 UID:53a1841187c8e5458b9b3d8b.fe7042@timeedit-arkiv
