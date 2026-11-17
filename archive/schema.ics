@@ -275,28 +275,6 @@ X-COURSE:Ledarskap i en global värld
 X-BASE-UID:57ce17efe951c2767fc69050@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T121500Z
-DTEND:20261117T160000Z
-UID:5cc31bde98f754a94d5c570b.fe7042@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://use.mazemap.com/?campusid=49&sharepoitype=identifier&sharepoi=
- %C3%85ngstr%C3%B6m-10K1121
-SUMMARY:I4.IAD\, IT4\, MasComScie\, MasDataAn1\, MasIndAnalys2\, STS4.IT\,
-  X4.3\, Databasteknik II.  \, Laboration
-LOCATION:Plats: 10K1121\, Datorsal\, Ångström \nPlats: 10K1125\, Datorsa
- l\, Ångström \nPlats: 10K1201\, Datorsal\, Ångström \nPlats: 10K1205\
- , Datorsal\, Ångström
-DESCRIPTION:Karta: https://use.mazemap.com/?campusid=49&sharepoitype=ident
- ifier&sharepoi=%C3%85ngstr%C3%B6m-10K1121 \nKarta: https://link.mazemap.c
- om/6UoA9GV0 \nKarta: https://link.mazemap.com/1SNivutJ \nKarta: https://u
- se.mazemap.com/?campusid=49&sharepoitype=identifier&sharepoi=%C3%85ngstr%
- C3%B6m-10K1205\nID 4129520
-X-FEED:INDEK År 4 Schema
-X-COURSE:Databasteknik II
-X-BASE-UID:5cc31bde98f754a94d5c570b@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261118T071500Z
 DTEND:20261118T110000Z
 UID:f341c7178dbeec1f09550ba0.fe7042@timeedit-arkiv
