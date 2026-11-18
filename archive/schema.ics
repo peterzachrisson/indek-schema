@@ -329,21 +329,6 @@ X-COURSE:Statistisk maskininlärning
 X-BASE-UID:ffd684f4f163ffc0866c9dbd@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T141500Z
-DTEND:20261118T160000Z
-UID:37b4faf34f6366bb985ea569.fe7042@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://link.mazemap.com/ziRm5QjF
-SUMMARY:I4.IAD\, IT4\, MasComScie\, MasDataAn1\, MasIndAnalys2\, STS4.IT\,
-  X4.3\, Databasteknik II.  \, Föreläsning
-LOCATION:Plats: 10132\, Häggsalen\, Ångström
-DESCRIPTION:Karta: https://link.mazemap.com/ziRm5QjF\nID 4127988
-X-FEED:INDEK År 4 Schema
-X-COURSE:Databasteknik II
-X-BASE-UID:37b4faf34f6366bb985ea569@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261119T071500Z
 DTEND:20261119T090000Z
 UID:04a054920ef0f30da35dc9a5.fe7042@timeedit-arkiv
@@ -859,6 +844,24 @@ X-COURSE:Statistisk maskininlärning
 X-BASE-UID:b3e7e901f90a39ec9b460fe2@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T121500Z
+DTEND:20261202T160000Z
+UID:f96292470134d121ece6e73e.fe7042@timeedit-arkiv
+DTSTAMP:20261118T203746Z
+LAST-MODIFIED:20261118T203746Z
+URL:https://use.mazemap.com/?campusid=49&sharepoitype=identifier&sharepoi=
+ %C3%85ngstr%C3%B6m-10K1205-1206
+SUMMARY:IT4\, MasComScie\, MasDataAn1\, MasMat.FM1\, MasMat.TMS1\, MasVatt
+ Tek2\, Statistisk maskininlärning.  \, Laboration
+LOCATION:Plats: 10K1205\, Datorsal\, Ångström \nPlats: 10K1206\, Datorsa
+ l\, Ångström
+DESCRIPTION:Karta: https://use.mazemap.com/?campusid=49&sharepoitype=ident
+ ifier&sharepoi=%C3%85ngstr%C3%B6m-10K1205-1206\nID 4283088
+X-FEED:INDEK År 4 Schema
+X-COURSE:Statistisk maskininlärning
+X-BASE-UID:f96292470134d121ece6e73e@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T141500Z
 DTEND:20261202T160000Z
 UID:49372bbe14a39d164874598f.fe7042@timeedit-arkiv
@@ -952,6 +955,26 @@ DESCRIPTION:Lab2 \nKarta: https://use.mazemap.com/?campusid=49&sharepoityp
 X-FEED:INDEK År 4 Schema
 X-COURSE:Statistisk maskininlärning
 X-BASE-UID:a35c1cdda4e5a8c7151340ec@timeedit-arkiv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T141500Z
+DTEND:20261203T160000Z
+UID:634abe1ebfa33e8401fe7f4b.fe7042@timeedit-arkiv
+DTSTAMP:20261118T203746Z
+LAST-MODIFIED:20261118T203746Z
+URL:https://use.mazemap.com/?campusid=49&sharepoitype=identifier&sharepoi=
+ %C3%85ngstr%C3%B6m-101168
+SUMMARY:IT4\, MasComScie\, MasDataAn1\, MasMat.FM1\, MasMat.TMS1\, MasVatt
+ Tek2\, Statistisk maskininlärning.  \, Laboration
+LOCATION:Plats: 101168\, Grupprum\, Ångström \nPlats: 101174\, Grupprum\
+ , Ångström
+DESCRIPTION:Lab2 \nKarta: https://use.mazemap.com/?campusid=49&sharepoityp
+ e=identifier&sharepoi=%C3%85ngstr%C3%B6m-101168 \nKarta: https://use.maze
+ map.com/?campusid=49&sharepoitype=identifier&sharepoi=%C3%85ngstr%C3%B6m-
+ 101174\nID 4282946
+X-FEED:INDEK År 4 Schema
+X-COURSE:Statistisk maskininlärning
+X-BASE-UID:634abe1ebfa33e8401fe7f4b@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T141500Z
