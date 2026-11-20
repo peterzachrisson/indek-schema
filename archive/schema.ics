@@ -397,38 +397,6 @@ X-COURSE:Artificiell intelligens för industriell analys
 X-BASE-UID:cb8b9a94d67047b6d2441eb4@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261120T141500Z
-DTEND:20261120T160000Z
-UID:35c189ca2c40c9c7a3e4cf6c.fe7042@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://use.mazemap.com/?campusid=49&sharepoitype=identifier&sharepoi=
- %C3%85ngstr%C3%B6m-101195
-SUMMARY:IT4\, MasComScie\, MasDataAn1\, MasMat.FM1\, MasMat.TMS1\, MasVatt
- Tek2\, Statistisk maskininlärning.  \, Föreläsning
-LOCATION:Plats: 101195\, Heinz-Otto Kreiss\, Ångström
-DESCRIPTION:F6 \nKarta: https://use.mazemap.com/?campusid=49&sharepoitype=
- identifier&sharepoi=%C3%85ngstr%C3%B6m-101195\nID 4127937
-X-FEED:INDEK År 4 Schema
-X-COURSE:Statistisk maskininlärning
-X-BASE-UID:35c189ca2c40c9c7a3e4cf6c@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T141500Z
-DTEND:20261120T160000Z
-UID:70141c4ce36744bb5eee1994.fe7042@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://link.mazemap.com/LYGoYSyr
-SUMMARY:I4.IAD\, MasILI1\, Artificiell intelligens för industriell analys
- .  \, Föreläsning
-LOCATION:Plats: 80127\, Ångström
-DESCRIPTION:F7 \nKarta: https://link.mazemap.com/LYGoYSyr\nID 4143449
-X-FEED:INDEK År 4 Schema
-X-COURSE:Artificiell intelligens för industriell analys
-X-BASE-UID:70141c4ce36744bb5eee1994@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261123T071500Z
 DTEND:20261123T090000Z
 UID:d3ab1d8d4492e0d2ebceb465.fe7042@timeedit-arkiv

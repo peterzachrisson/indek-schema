@@ -202,23 +202,6 @@ X-COURSE:Statistisk maskininlärning
 X-BASE-UID:13d18128f8db063daae0de15@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261120T141500Z
-DTEND:20261120T160000Z
-UID:35c189ca2c40c9c7a3e4cf6c.ae773b@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://use.mazemap.com/?campusid=49&sharepoitype=identifier&sharepoi=
- %C3%85ngstr%C3%B6m-101195
-SUMMARY:IT4\, MasComScie\, MasDataAn1\, MasMat.FM1\, MasMat.TMS1\, MasVatt
- Tek2\, Statistisk maskininlärning.  \, Föreläsning
-LOCATION:Plats: 101195\, Heinz-Otto Kreiss\, Ångström
-DESCRIPTION:F6 \nKarta: https://use.mazemap.com/?campusid=49&sharepoitype=
- identifier&sharepoi=%C3%85ngstr%C3%B6m-101195\nID 4127937
-X-FEED:INDEK År 4 Schema
-X-COURSE:Statistisk maskininlärning
-X-BASE-UID:35c189ca2c40c9c7a3e4cf6c@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261123T121500Z
 DTEND:20261123T140000Z
 UID:aa013750cddad93a65d39cc9.ae773b@timeedit-arkiv
