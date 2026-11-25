@@ -544,21 +544,6 @@ X-COURSE:Artificiell intelligens för industriell analys
 X-BASE-UID:3d3b66152b1250f4158449be@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T141500Z
-DTEND:20261125T160000Z
-UID:eaa3655c2b1464a0a6caa1cb.fe7042@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://link.mazemap.com/ziRm5QjF
-SUMMARY:I4.IAD\, IT4\, MasComScie\, MasDataAn1\, MasIndAnalys2\, STS4.IT\,
-  X4.3\, Databasteknik II.  \, Föreläsning
-LOCATION:Plats: 10132\, Häggsalen\, Ångström
-DESCRIPTION:Karta: https://link.mazemap.com/ziRm5QjF\nID 4127989
-X-FEED:INDEK År 4 Schema
-X-COURSE:Databasteknik II
-X-BASE-UID:eaa3655c2b1464a0a6caa1cb@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T081500Z
 DTEND:20261126T110000Z
 UID:a1980afcb482eee3504c2dda.fe7042@timeedit-arkiv

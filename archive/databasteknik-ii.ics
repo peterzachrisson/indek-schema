@@ -80,21 +80,6 @@ X-COURSE:Databasteknik II
 X-BASE-UID:d452120105b01be4f959a7dd@timeedit-arkiv
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T141500Z
-DTEND:20261125T160000Z
-UID:eaa3655c2b1464a0a6caa1cb.2dcdfb@timeedit-arkiv
-DTSTAMP:20261109T095125Z
-LAST-MODIFIED:20261109T095125Z
-URL:https://link.mazemap.com/ziRm5QjF
-SUMMARY:I4.IAD\, IT4\, MasComScie\, MasDataAn1\, MasIndAnalys2\, STS4.IT\,
-  X4.3\, Databasteknik II.  \, Föreläsning
-LOCATION:Plats: 10132\, Häggsalen\, Ångström
-DESCRIPTION:Karta: https://link.mazemap.com/ziRm5QjF\nID 4127989
-X-FEED:INDEK År 4 Schema
-X-COURSE:Databasteknik II
-X-BASE-UID:eaa3655c2b1464a0a6caa1cb@timeedit-arkiv
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261127T141500Z
 DTEND:20261127T160000Z
 UID:99ac0cd817656e87305ac35a.2dcdfb@timeedit-arkiv
